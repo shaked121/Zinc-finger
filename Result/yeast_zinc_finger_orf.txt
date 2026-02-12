@@ -1,25 +1,25 @@
->YBR114W
+>YBR114W RAD16 SGDID:S000000318, Chr II from 467248-469620, Genome Release 64-1-1, Verified ORF, "Protein that recognizes and binds damaged DNA in an ATP-dependent manner (with Rad7p) during nucleotide excision repair; subunit of Nucleotide Excision Repair Factor 4 (NEF4) and the Elongin-Cullin-Socs (ECS) ligase complex"
 CHHKFCRLCI
->YCR066W
+>YCR066W RAD18 SGDID:S000000662, Chr III from 231500-232963, Genome Release 64-1-1, Verified ORF, "E3 ubiqutin ligase, forms heterodimer with Rad6p to monoubiquitinate PCNA-K164; heterodimer binds single-stranded DNA and has single-stranded DNA dependent ATPase activity; required for postreplication repair"
 CGHTFCSLCI
->YDR034W-B
+>YDR034W-B YDR034W-B SGDID:S000007234, Chr IV from 521314-521469, Genome Release 64-1-1, Uncharacterized ORF, "Predicted tail-anchored plasma membrane protein containing a conserved CYSTM module; related proteins in other organisms may be involved in response to stress; green fluorescent protein (GFP)-fusion protein localizes to the cell periphery"
 CCHFLCCLCL
->YDR265W
+>YDR265W PEX10 SGDID:S000002673, Chr IV from 998864-999877, Genome Release 64-1-1, Verified ORF, "Peroxisomal membrane E3 ubiquitin ligase, required for for Ubc4p-dependent Pex5p ubiquitination and peroxisomal matrix protein import; contains zinc-binding RING domain; mutations in human homolog cause various peroxisomal disorders"
 CGHLFCWSCL
->YDR460W
+>YDR460W TFB3 SGDID:S000002868, Chr IV from 1383811-1384776, Genome Release 64-1-1, Verified ORF, "Subunit of TFIIH and nucleotide excision repair factor 3 complexes, involved in transcription initiation, required for nucleotide excision repair; ring finger protein similar to mammalian CAK and TFIIH subunit"
 CYHRICESCV
->YER116C
+>YER116C SLX8 SGDID:S000000918, Chr V from 396172-395348, Genome Release 64-1-1, reverse complement, Verified ORF, "Subunit of the Slx5-Slx8 SUMO-targeted ubiquitin ligase (STUbL) complex; stimulated by prior attachment of SUMO to the substrate; contains a C-terminal RING domain"
 CGHVFCCPCL
->YKR017C
+>YKR017C YKR017C SGDID:S000001725, Chr XI from 473349-471694, Genome Release 64-1-1, reverse complement, Uncharacterized ORF, "Putative protein of unknown function; contains a RING finger motif"
 CGHEYCINCY
->YLR032W
+>YLR032W RAD5 SGDID:S000004022, Chr XII from 204991-208500, Genome Release 64-1-1, Verified ORF, "DNA helicase proposed to promote replication fork regression during postreplication repair by template switching; RING finger containing ubiquitin ligase; stimulates the synthesis of free and PCNA-bound polyubiquitin chains by Ubc13p-Mms2p"
 CGHSFCEKCL
->YLR247C
+>YLR247C IRC20 SGDID:S000004237, Chr XII from 633354-628684, Genome Release 64-1-1, reverse complement, Verified ORF, "Putative helicase; localizes to the mitochondrion and the nucleus; YLR247C is not an essential gene; null mutant displays increased levels of spontaneous Rad52p foci"
 CGHYFCKSCI
->YLR427W
+>YLR427W MAG2 SGDID:S000004419, Chr XII from 988428-990440, Genome Release 64-1-1, Verified ORF, "Cytoplasmic protein of unknown function; induced in response to mycotoxin patulin; ubiquitinated protein similar to the human ring finger motif protein RNF10; predicted to be involved in repair of alkylated DNA due to interaction with MAG1"
 CGHIFCLSCL
->YOL054W
+>YOL054W PSH1 SGDID:S000005415, Chr XV from 228614-229834, Genome Release 64-1-1, Verified ORF, "E3 ubiquitin ligase that mediates poyubiquitination and degradation of centromere-binding protein Cse4p and prevents Cse4p from mislocalizing to euchromatin; ubiquitylation of Cse4p may be antagonized by Scm3p"
 CGHNYCYGCL
->YOR191W
+>YOR191W ULS1 SGDID:S000005717, Chr XV from 692475-697334, Genome Release 64-1-1, Verified ORF, "RING finger protein involved in proteolytic control of sumoylated substrates; interacts with SUMO (Smt3p); member of the SWI/SNF family of DNA-dependent ATPases; plays a role in antagonizing silencing during mating-type switching"
 CGHLICDTCI
 Number of proteins containing Zinc Finger Motif: 12

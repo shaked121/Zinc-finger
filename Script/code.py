@@ -28,7 +28,7 @@ for line in file1:
             check_gene(gene, protein_name)
         
         # 2. עכשיו מעדכנים לשם של החלבון החדש ומאפסים רצף
-        protein_name = line.split()[0]
+        protein_name = line
         gene = "" 
     else:
         gene += line
