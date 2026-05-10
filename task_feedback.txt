@@ -1,0 +1,30 @@
+feedback:
+
+The code is clear, readable, and well organized. The student correctly:
+
+parses the FASTA protein file,
+handles multi-line protein sequences properly,
+searches all proteins,
+writes all motif matches to the output file,
+counts proteins containing the motif only once,
+and correctly handles the final protein in the file.
+
+The use of a helper function (check_gene) improves readability and avoids code duplication.
+
+However, there are still two important issues:
+
+The Zinc Finger motif regex:
+C.H.[LIVMFY]C.{2}C[LIVMYA]
+
+does not correctly implement the motif described in the assignment. The required motif contains different spacing rules and Histidine positions, so the biological motif search is inaccurate.
+
+re.findall() does not support overlapping matches, although the assignment explicitly requires allowing multiple motif occurrences within the same protein sequence. Supporting overlapping matches would require a lookahead-based regex approach.
+
+Minor notes:
+
+The required folder names were data/ and results/, while the submission uses Data/ and Result/.
+Using with open(...) would be safer and more standard for file handling.
+
+Overall, the program structure is good and the FASTA handling is correct, but the core biological motif implementation is inaccurate.
+
+Grade: 5.5/8
